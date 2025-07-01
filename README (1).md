@@ -1,4 +1,4 @@
-# Predicting Student Dropout and Academic Success Using Machine Learning
+#  Student Dropout and Academic Success Using Machine Learning
 
 ## Overview
 This project utilizes machine learning techniques, specifically Logistic Regression, to predict student outcomes, 
